@@ -16,6 +16,9 @@ Languages:
   Versions:
   - Version: 1
     Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
     - ID: "69e8418c-5f11-40a8-9c0d-9e5eacc1229e"
       Hint: Hero
       Value: |
@@ -25,7 +28,7 @@ Languages:
       Value: "READY | STEADY | PLAY!"
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "7d9820e1-a995-4f8e-83b4-92aa00866f29"
+      Value: "a934e712-0ca8-46f3-8f4c-74a601f67e6e"
     - ID: "957519d5-5c6b-40c0-b462-b1dac8f12a03"
       Hint: Eyebrow
       Value: Sports and Recreation Expo
@@ -34,7 +37,7 @@ Languages:
       Value: "<p>Join us in person or online for the fifth annual <strong>PLAY!</strong> Summit.</p>"
     - ID: "e2d35418-b6ed-4838-90cb-26f98c1d7586"
       Hint: Title
-      Value: Raise Your Game
+      Value: Raise Your Hackathon Game
 - Language: "fr-CA"
   Versions:
   - Version: 1
